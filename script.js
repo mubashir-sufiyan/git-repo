@@ -4,7 +4,7 @@
 //     alert(date)
 // }
 // dateAndtTime();
-
+// change
 //question 2
 
 // function fullName(){
